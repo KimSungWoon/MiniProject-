@@ -1,3 +1,4 @@
+
 # CNN 모델, OpenCV, 자연어 처리를 활용한 신발 분류 및 태그 추천 MiniProject
 
 ## 프로젝트 설명
@@ -10,6 +11,7 @@
 - 출처 : 무신사 홈페이지
 
 > ## 신발 이미지 - 데이터 전처리 과정
+https://colab.research.google.com/drive/1odmAwyhzv_0oPOZ74TIdTVHtSP8Ds6VH#scrollTo=hfTblMkXgjNx
 - 카테고리("브랜드-품목") 지정
   - 나이키-Running, 반스-Canvas, 슈펜-Canvas, 아디다스-Running, 아식스-Running, 엑셀시오르-Canvas, 컨버스-Canvas, 프로스펙스-Running, 휠라-Running, Other-Sneakers
 - 카테고리 선정 기준
